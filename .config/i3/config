@@ -93,16 +93,16 @@ set $ws10 "阮"
 #################################
 # Assign Workspaces To Monitors #
 #################################
-workspace $ws1  output DP-0
-workspace $ws2  output DP-0
-workspace $ws3  output DP-0
-workspace $ws4  output DP-0
-workspace $ws5  output DP-0
-workspace $ws6  output HDMI-0
-workspace $ws7  output HDMI-0
-workspace $ws8  output HDMI-0
-workspace $ws9  output DVI-D-0
-workspace $ws10 output DVI-D-0
+# workspace $ws1  output DP-0
+# workspace $ws2  output DP-0
+# workspace $ws3  output DP-0
+# workspace $ws4  output DP-0
+# workspace $ws5  output DP-0
+# workspace $ws6  output HDMI-0
+# workspace $ws7  output HDMI-0
+# workspace $ws8  output HDMI-0
+# workspace $ws9  output DVI-D-0
+# workspace $ws10 output DVI-D-0
 
 #####################
 # Workspace Hotkeys #
